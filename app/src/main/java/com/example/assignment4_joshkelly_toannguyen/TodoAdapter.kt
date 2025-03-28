@@ -36,7 +36,7 @@ class TodoAdapter(
            onClick(todo, key)
        }
 
-        holder.itemView.setOnClickListener{
+        holder.itemView.setOnLongClickListener{
             onLongClick(key)
             true
         }
