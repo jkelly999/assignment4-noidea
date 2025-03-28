@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ASSIGNMENT4_JOSHKELLY_TOANNGUYEN</string>
+    <string name="display_menu"><![CDATA[DISPLAY /> </menu>]]></string>
+    <string name="api">API</string>
+    <string name="api_call">API CALL</string>
+    <string name="display">DISPLAY</string>
+    <string name="add_new_item">Add new item</string>
+    <string name="DISPLAY">DISPLAY</string>
+    <string name="user_id">User ID</string>
+    <string name="title">Title</string>
+    <string name="todo_id">Todo ID</string>
+    <string name="save_todo">Save Todo</string>
+    <string name="title1">Title1</string>
+    <string name="userid_id">UserId: , ID:</string>
+    <string name="remove_todo">Remove Todo</string>
+    <string name="result_will_appear_here">Result will appear here</string>
+</resources>
